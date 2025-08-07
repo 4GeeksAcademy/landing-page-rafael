@@ -9,3 +9,18 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.card-image {
+  height: 200px;
+  object-fit: cover;
+}
+
+.card-placeholder {
+  height: 200px;
+  width: 100%;
+  background-color: #f8f9fa;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #6c757d;
+}
+
